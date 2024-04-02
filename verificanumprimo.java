@@ -27,6 +27,6 @@ public class verificanumprimo {
         }else{
             System.out.println(numeroingresado + "no es primo.");
         }
-
+        numero.close();
     }
 }
